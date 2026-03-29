@@ -7,7 +7,7 @@ const MusicSearch = ({ onPlayTrack }) => {
   const [error, setError] = useState('');
 
   // Remplacez par votre clé API YouTube
-  const YOUTUBE_API_KEY = 'AIzaSyBfcjmUmi1_vY4ieK_D64cWdeKrFju6Fso';
+  const YOUTUBE_API_KEY = 'votre cle API youtube';
 
   const searchMusic = async (e) => {
     e.preventDefault();
