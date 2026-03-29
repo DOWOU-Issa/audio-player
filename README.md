@@ -43,7 +43,3 @@ npm install
 
 # Démarrer le serveur de développement
 npm run dev
-
-// YouTube API Key - Restreinte à localhost et github.io
-// Ne fonctionnera que depuis ces domaines
-const YOUTUBE_API_KEY = 'AIzaSyBfcjmUmi1_vY4ieK_D64cWdeKrFju6Fso';
