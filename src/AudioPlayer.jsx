@@ -62,7 +62,7 @@ const AudioPlayer = () => {
   const tracks = localTracks.length > 0 ? localTracks : defaultTracks;
 
   // YouTube API Key
-  const YOUTUBE_API_KEY = 'AIzaSyBfcjmUmi1_vY4ieK_D64cWdeKrFju6Fso';
+  const YOUTUBE_API_KEY = 'Votre cle API youtube ';
 
   const formatTime = (time) => {
     if (isNaN(time) || !time || time === Infinity) return '00:00';
